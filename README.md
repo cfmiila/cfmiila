@@ -1,9 +1,9 @@
-## 👋 Olá! Eu sou a Camila Fernandes
+<h2 align="center">👋 Olá! Eu sou a Camila Fernandes</h2>
 
 <div align="center">
   <a href="https://github.com/cfmiila">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfmiila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfmiila&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfmiila&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
 
@@ -31,6 +31,7 @@
   <a href="https://instagram.com/cfmiila" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-cfmiila-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+ 
   <a href="mailto:cfernandesmila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
