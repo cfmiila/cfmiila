@@ -31,12 +31,9 @@
   <a href="https://instagram.com/cfmiila" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-cfmiila-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/seu-link-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:cfernandesmila@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="mailto:cfernandesmila@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </div>
 
 ---
@@ -46,5 +43,3 @@
 <div align="center">
   <img src="https://github.com/cfmiila/cfmiila/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
-
--->
