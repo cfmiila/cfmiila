@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá! Eu sou a Camila Fernandes</h2>
+<h2 align="center"> Olá! </h2>
 
 <div align="center">
   <a href="https://github.com/cfmiila">
@@ -39,7 +39,7 @@
 
 ---
 
-### 🐍 Snake Commit Animation
+
 
 <div align="center">
   <img src="https://github.com/cfmiila/cfmiila/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
