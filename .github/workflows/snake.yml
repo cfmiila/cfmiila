@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: cfmiila
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # DIZEMOS PARA A ACTION USAR O NOSSO NOVO TOKEN
+     
           token: ${{ secrets.SNAKE_TOKEN }}
 
       - name: Push to output branch
