@@ -1,10 +1,10 @@
 <h2 align="center">
-  Olá, eu sou a Camila! 👋
+  Olá!
 </h2>
 
 <div align="center">
   <blockquote>
-    🚀 Desenvolvedora apaixonada por criar soluções inovadoras e aprender novas tecnologias.
+     Desenvolvedora apaixonada por criar soluções inovadoras, analisar dados e aprender novas tecnologias.
   </blockquote>
 </div>
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,26 +29,16 @@
   <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Power BI" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
+
+
 </p>
 
 ---
 
-### 📫 Onde me encontrar
 
-<p align="center">
-  <a href="https://instagram.com/cfmiila" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-cfmiila-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:cfernandesmila@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cfernandesmila-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 Minhas Contribuições
 
 <div align="center">
-  <!-- CORREÇÃO IMPORTANTE: Use a URL "raw" para a imagem aparecer -->
+
   <img src="https://raw.githubusercontent.com/cfmiila/cfmiila/output/github-contribution-grid-snake.svg" alt="Snake animation from GitHub contributions" />
 </div>
