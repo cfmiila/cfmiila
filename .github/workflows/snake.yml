@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     
-    # ADICIONE ESTA PARTE PARA CORRIGIR O ERRO
+
     permissions:
       contents: write
 
