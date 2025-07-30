@@ -2,18 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite UTC
-  workflow_dispatch: # permite execução manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    
+    # ADICIONE ESTA PARTE PARA CORRIGIR O ERRO
+    permissions:
+      contents: write
+
     steps:
       - name: Generate the snake animation
         uses: Platane/snk@master
         with:
           github_user_name: cfmiila
-          # CORREÇÃO: O nome do parâmetro mudou de 'outputs' para 'svg_out_path'
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
