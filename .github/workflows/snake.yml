@@ -1,24 +1,26 @@
 name: Generate Snake
 
-on: 
+on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-jobs: 
+jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Generate the snake animation
+      - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: cfmiila
           svg_out_path: dist/github-contribution-grid-snake.svg
+          # DIZEMOS PARA A ACTION USAR O NOSSO NOVO TOKEN
+          token: ${{ secrets.SNAKE_TOKEN }}
 
-      - name: Push to GitHub
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
