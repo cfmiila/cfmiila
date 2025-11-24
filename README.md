@@ -29,10 +29,9 @@
   <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Power BI" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
-
-
+  <img alt="Power BI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/Power-BI.svg">
 </p>
+
 
 ---
 
