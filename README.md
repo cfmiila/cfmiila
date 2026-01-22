@@ -8,13 +8,6 @@
   </blockquote>
 </div>
 
-<p align="center">
-  <a href="https://github.com/cfmiila">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfmiila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfmiila&layout=compact&langs_count=10&theme=tokyonight"/>
-  </a>
-</p>
-
 ---
 
 ### Tecnologias e Ferramentas
